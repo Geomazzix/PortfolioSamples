@@ -21,7 +21,7 @@
 #if defined (PLATFORM_WINDOWS)
 #include <glad/glad.h>
 #elif defined (PLATFORM_SWITCH)
-#include <nn/gll.h>
+//Omitted switch code.
 #endif
 #include <glm/glm.hpp>
 #include <glm/mat4x4.hpp>
